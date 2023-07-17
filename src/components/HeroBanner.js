@@ -28,7 +28,7 @@ const HeroBanner = () => {
         </Typography>
 
         <Button variant="contained" href="exercises">Search Exercises</Button>
-        <img src={HeroBannerImage}/>
+        <img src={HeroBannerImage} alt="banner" className='hero-banner-image'/>
     </Box>
   )
 }
