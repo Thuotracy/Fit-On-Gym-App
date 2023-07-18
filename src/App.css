@@ -93,8 +93,9 @@ body {
   }
   
   .search-btn:hover {
-    color: #FF2625 !important;
-    border: 1px solid #FF2625 !important;
+    color: #1560BD !important;
+    border: 1px solid #1560BD !important;
+    font-size: 16px;
   }
   
   .exercise-video {
