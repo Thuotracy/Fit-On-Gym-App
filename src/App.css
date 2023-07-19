@@ -49,8 +49,8 @@ body {
   }
   
   .detail-image {
-    width: 729px;
-    height: 742px;
+    width: 660px;
+    height: 670px;
   }
   
   .hero-banner-img {
@@ -109,8 +109,8 @@ body {
   
   @media screen and (max-width:1200px) {
     .detail-image {
-      width: 300px;
-      height: 300px;
+      width: 250px;
+      height: 250px;
     }
   
   

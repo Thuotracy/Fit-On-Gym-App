@@ -41,7 +41,7 @@ const Detail = ({ exerciseDetail }) => {
             <Button sx={{ background: '#FFF2DB', borderRadius: '50%', width: '100px', height: '100px' }}>
               <img src={item.icon} alt={bodyPart} style={{ width: '40px', height: '40px' }} />
             </Button>
-            <Typography textTransform="capitalize" sx={{ fontSize: { lg: '24px', xs: '14px' } }}>
+            <Typography textTransform="capitalize" sx={{ fontSize: { lg: '22px', xs: '12px' } }}>
               {item.name}
             </Typography>
           </Stack>
