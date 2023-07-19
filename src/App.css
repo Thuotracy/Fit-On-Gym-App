@@ -64,10 +64,10 @@ body {
   }
   
   .exercise-card {
-    width: 400px;
-    height: 445px;
+    width: 300px;
+    height: 350px;
     background: #fff;
-    border-top: 4px solid #FF2625;
+    border-top: 4px solid #1560BD;
     border-bottom-left-radius: 20px;
     text-decoration: none;
     display: flex;
@@ -79,7 +79,7 @@ body {
   }
   
   .exercise-card img {
-    height: 326px;
+    height: 250px;
   }
   
   .bodyPart-card {
