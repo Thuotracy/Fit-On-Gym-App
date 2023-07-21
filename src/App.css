@@ -65,7 +65,7 @@ body {
   
   .exercise-card {
     width: 300px;
-    height: 350px;
+    height: 400px;
     background: #fff;
     border-top: 4px solid #1560BD;
     border-bottom-left-radius: 20px;
@@ -96,15 +96,6 @@ body {
     color: #1560BD !important;
     border: 1px solid #1560BD !important;
     font-size: 16px;
-  }
-  
-  .exercise-video {
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-    width: 387px;
-    height: 381px;
-    text-decoration: none;
   }
   
   @media screen and (max-width:1200px) {
