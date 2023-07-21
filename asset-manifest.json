@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fit-On-Gym-App/static/css/main.a937bf62.css",
+    "main.js": "/Fit-On-Gym-App/static/js/main.6087559b.js",
+    "static/media/banner.png": "/Fit-On-Gym-App/static/media/banner.4eb2301b938f0d3f16e8.png",
+    "index.html": "/Fit-On-Gym-App/index.html",
+    "main.a937bf62.css.map": "/Fit-On-Gym-App/static/css/main.a937bf62.css.map",
+    "main.6087559b.js.map": "/Fit-On-Gym-App/static/js/main.6087559b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a937bf62.css",
+    "static/js/main.6087559b.js"
+  ]
+}
