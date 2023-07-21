@@ -1,11 +1,16 @@
 import React from 'react';
 import { Box, Stack, Typography } from '@mui/material';
 import Logo from '../assets/images/Logo.png';
+import { Link } from 'react-router-dom';
+
 
 const Footer = () => (
   <Box mt="80px" bgcolor="#FFF3F4">
     <Stack gap="40px" sx={{ alignItems: 'center' }} flexWrap="wrap" px="40px" pt="24px">
-    <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 20px' }}/>
+    <Link to="/">
+        <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 20px' }}/>
+     </Link>
+      <p style={{ position: 'relative', right: '145px', top: '20px', margin: '0 20px', color: '#1560BD', fontSize: '20px', fontWeight: '600'}}>Fit-On</p>
 
       {/* <img src={Logo} alt="logo" style={{ width: '200px', height: '41px' }} /> */}
     </Stack>
