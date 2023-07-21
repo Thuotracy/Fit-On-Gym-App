@@ -14,7 +14,7 @@ const Navbar = () => {
       px="20px"
     >
       <Link to="/">
-        <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 20px' }}/>
+        <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 10px' }}/>
      </Link>
       <p style={{ position: 'relative', right: '145px', top: '20px', margin: '0 20px', color: '#1560BD', fontSize: '20px', fontWeight: '600'}}>Fit-On</p>
 
