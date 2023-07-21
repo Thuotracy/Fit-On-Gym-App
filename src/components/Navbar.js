@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { Stack } from '@mui/material';
+import { Stack, Typography } from '@mui/material';
 
 
 import Logo from '../assets/images/Logo.png';
@@ -15,7 +15,9 @@ const Navbar = () => {
     >
       <Link to="/">
         <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 20px' }}/>
-      </Link>
+     </Link>
+      <p style={{ position: 'relative', right: '145px', top: '20px', margin: '0 20px', color: '#1560BD', fontSize: '18px'}}>Fit-On</p>
+
       <Stack
         direction="row"
         gap="40px"
